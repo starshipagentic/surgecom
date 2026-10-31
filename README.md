@@ -1,2 +1,3 @@
 # surgecom
-Placeholder repo for the surgecom project
+
+Placeholder package. The `surgecom` name is reserved for a future project.
